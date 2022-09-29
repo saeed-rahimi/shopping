@@ -8,6 +8,33 @@
 .header{
     background-color:#232f3e;
     border-radius: 5px 5px 0 0;
-  
+  color: #fff;
 
+}
+.header a {
+    color:#bcbde7 ;
+} 
+.topinfo{
+    border-bottom: 1px solid #303e4f;
+    display: flex;
+    justify-content: space-between;
+}
+.accountlist{
+    display: flex;
+padding-right:10px ;
+}
+.accountitem{
+    padding: 5px 15px;
+}
+.accountlink,.icon-lang-iran{
+    
+    vertical-align: middle;
+    padding: 5px;
+}
+.language{
+    padding: 5px 0 5px 10px;
+}
+.accountlink i{
+    padding-right: 10px;
+    vertical-align: middle;
 }
